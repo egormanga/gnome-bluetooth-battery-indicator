@@ -4,6 +4,10 @@ Gnome-Shell extension displaying battery percentage for bluetooth devices
 
 https://extensions.gnome.org/extension/3991/bluetooth-battery/
 
+## Fork features
+- Updated for Gnome 40
+- Refactored settings UI
+
 ## Requirements
 
 * bluez
